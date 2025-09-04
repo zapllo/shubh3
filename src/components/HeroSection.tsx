@@ -124,7 +124,7 @@ export default function HeroSection() {
                                                 />
                                             </div>
                                             <div>
-                                                <h3 className="text-base font-medium text-center">Behind the top coaches? That's me. 😉</h3>
+                                                <h3 className="text-base font-medium text-center">Behind the top coaches? That&apos;s me. 😉</h3>
                                             </div>
                                         </div>
                                     </div>

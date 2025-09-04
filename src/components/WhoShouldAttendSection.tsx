@@ -150,7 +150,7 @@ export default function WhoShouldAttendSection() {
                 {/* Bottom Text */}
                 <div className="text-center mb-12">
                     <h3 className="text-xl md:text-xl mt-12 font-semibold text-[#2a2a2a]">
-                        If you're serious about speed, implementation, and results… this is for you.
+                        If you&apos;re serious about speed, implementation, and results… this is for you.
                     </h3>
                 </div>
 
@@ -222,7 +222,7 @@ export default function WhoShouldAttendSection() {
                     {/* Bottom Description */}
                     <div className="text-center mt-12">
                         <p className="text-xl text-[#2a2a2a] max-w-4xl mx-auto mb-8">
-                            This is your chance to learn directly from someone who's built what others only talk about.
+                            This is your chance to learn directly from someone who&apos;s built what others only talk about.
                         </p>
                     </div>
 

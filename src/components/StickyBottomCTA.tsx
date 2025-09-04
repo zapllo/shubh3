@@ -44,7 +44,7 @@ export default function StickyBottomCTA({ heroSelector = '#hero' }: Props) {
   // Seats logic (fixed)
   // Seats logic (simplified)
   useEffect(() => {
-    let pageLoadTime = sessionStorage.getItem('pageLoadTime')
+    const pageLoadTime = sessionStorage.getItem('pageLoadTime')
     let startTime: number
 
     if (!pageLoadTime) {

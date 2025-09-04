@@ -13,7 +13,7 @@ export default function OfflineEventSection() {
                 {/* Main Heading */}
                 <div className="text-center mb-8">
                     <h2 className="text-[21px] md:text-[34px] font-extrabold text-[#ffffff] mb-8">
-                        In This Offline Event, You'll Walk Out With:
+                        In This Offline Event, You&apos;ll Walk Out With:
                     </h2>
                 </div>
 
@@ -104,7 +104,7 @@ export default function OfflineEventSection() {
                 {/* Bottom Text */}
                 <div className="text-center mb-2 mt-4 flex justify-center">
                     <h2 className="text-lg md:text-2xl font- md:max-w-4xl text-[#ffffff] mb-6">
-                        This is not a theory class. It's a practical, action-based session where you can implement what you learn right away!
+                        This is not a theory class. It&apos;s a practical, action-based session where you can implement what you learn right away!
                     </h2>
                 </div>
 

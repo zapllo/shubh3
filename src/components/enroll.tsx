@@ -48,7 +48,7 @@ export default function EnrollButton({
 
   // Seats logic (fixed)
   useEffect(() => {
-    let pageLoadTime = sessionStorage.getItem('pageLoadTime')
+    const pageLoadTime = sessionStorage.getItem('pageLoadTime')
     let startTime: number
 
     if (!pageLoadTime) {

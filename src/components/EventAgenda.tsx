@@ -122,7 +122,7 @@ export default function EventAgendaSection() {
                                     </li>
                                    <li className="flex items-start md:px-6 gap-3">
                                         <CheckIcon />
-                                        <span className="text-[#e6e6e7]">Understand the "1 Hour per Week" system for consistent high-ticket sales</span>
+                                        <span className="text-[#e6e6e7]">Understand the &quot;1 Hour per Week&quot; system for consistent high-ticket sales</span>
                                     </li>
                                 </ul>
                             </div>
@@ -136,7 +136,7 @@ export default function EventAgendaSection() {
                     </h2>
 
                     <h3 className="text-base md:text-lg font-semibold text-white -700 mb-6">
-                        Because watching another webinar won't give you clarity.<br />
+                        Because watching another webinar won&apos;t give you clarity.<br />
                         You need focused, real-world execution.
                     </h3>
 
@@ -155,7 +155,7 @@ export default function EventAgendaSection() {
 
                     <div className="mb-8">
                         <p className="md:text-lg text-[#eeeeee] -700 max-w-4xl mx-auto">
-                            And unlike online events, you won't be left figuring it out alone. You get a proven plan to launch your funnel in just 1 day using the ultimate power of AI…!
+                            And unlike online events, you won&apos;t be left figuring it out alone. You get a proven plan to launch your funnel in just 1 day using the ultimate power of AI…!
                         </p>
                     </div>
                 </div>
