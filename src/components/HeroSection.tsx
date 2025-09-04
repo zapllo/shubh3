@@ -83,7 +83,7 @@ export default function HeroSection() {
                     {/* Headline + subhead */}
                     <div className="mx-auto md:mt-3 px-4 py-6 text-center">
                         <h1 className="mx-auto  text-[20px] md:text-[38px]   capitalize leading-[1.25]" style={{ fontFamily: 'Segoe UI, sans-serif !important', fontWeight: 600, color: '#F9FBFF' }}>
-                            Sit With Me In Delhi For 1 Day And I'll Teach You <span style={{ color: '#13B5E8' }}>How To<br className='hidden md:block' /> Launch Your 1 CR+ Coaching Business From High-<br />Converting Funnel</span> A-Z Using The Secret Army of <span style={{ color: '#13B5E8' }}><i>AI<br className='hidden md:block' /> Agents!</i></span>
+                            Sit With Me In Delhi For 1 Day And I&apos;ll Teach You <span style={{ color: '#13B5E8' }}>How To<br className='hidden md:block' /> Launch Your 1 CR+ Coaching Business From High-<br />Converting Funnel</span> A-Z Using The Secret Army of <span style={{ color: '#13B5E8' }}><i>AI<br className='hidden md:block' /> Agents!</i></span>
                         </h1>
 
                         <p className="mt-8 text-[18px]  md:text-[20px] font-medium  text-[#ffffff] -600">
