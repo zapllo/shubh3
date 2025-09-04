@@ -101,7 +101,7 @@ function BonusCard({ bonusNumber, title, items, image, priceText, backgroundColo
                                 <span
                                     className="text-[16px]  leading-relaxed text-[#e6e6e7] -700"
                                     dangerouslySetInnerHTML={{ __html: item }}
-                                />'
+                                />
                             </li>
                             {/* <div className='flex justify-start'>
                                 <div className='p-[0.1px]  opacity-45 max-w-sm w-full bg-[#e6e6e7]' />
