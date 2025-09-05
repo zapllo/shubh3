@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Launch at Scale - Reverse Funnels Workshop",
+  title: "1 Cr Scaling Sprint - delhi- Launch At Scale",
   description: "Join Shubh's exclusive workshop on Reverse Funnels and learn how to scale your business to new heights. Limited seats available.",
 };
 
