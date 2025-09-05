@@ -97,7 +97,9 @@ function BonusCard({ bonusNumber, title, items, image, priceText, backgroundColo
                     {items.map((item, index) => (
                         <>
                             <li key={index} className="flex justify-start items-start gap-3">
-                                <CheckIcon />
+                                <div className='relative'>
+                                    <CheckIcon />
+                                </div>
                                 <span
                                     className="text-[16px]  leading-relaxed text-[#e6e6e7] -700"
                                     dangerouslySetInnerHTML={{ __html: item }}
