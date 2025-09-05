@@ -6,20 +6,20 @@ import EnrollButton from './enroll'
 
 const faqs = [
     {
-        question: "Who is this for?",
-        answer: "This is for anyone who wants to acquire more customers on the internet with REVERSE FUNNELS. Coaches, consultants, agency owners, artists, professional service providers, influencers, and content creators."
+        question: "Q1 : Do I need prior experience with funnels or AI?",
+        answer: " Not at all. We’ll guide you from scratch, step by step."
     },
     {
-        question: "How is this different from other products?",
-        answer: "It works. We have a proven track record of utilizing this for ourselves and our private clients. You don't need to be an expert to implement these strategies."
+        question: "Q2 : Will I actually learn to build something during the event?",
+        answer: "Yes. The goal is to learn full implementation within the day."
     },
     {
-        question: "Is there a guarantee?",
-        answer: "Yes, you get a 30-day \"no questions asked\" money-back guarantee in case it's not for you. You even get to keep the bonuses."
+        question: "Q3 : I already have a funnel. Should I still attend?",
+        answer: "Yes, if your current funnel isn’t bringing in consistent sales, this session will show you how to fix it using AI, optimize it, or launch a better one fast."
     },
     {
-        question: "When can I access the bonuses?",
-        answer: "You can access the bonuses after the 3 DAY LIVE event is finished!"
+        question: "Q4 : Will there be networking opportunities at the event?",
+        answer: "Yes, definitely. The room will be filled with like-minded business owners, founders, and coaches. You’ll also get access to a private post-event group."
     }
 ]
 

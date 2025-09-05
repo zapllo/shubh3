@@ -132,7 +132,7 @@ export default function EventAgendaSection() {
                 {/* Why Offline Section */}
                 <div className="text-center mt-6 mb-8">
                     <h2 className="text-xl md:text-4xl font-bold text-[#ffffff] mb-6">
-                        Why Offline? Why Now? Why In Delhi?
+                        Why Offline? Why Now? Why In Gurgaon?
                     </h2>
 
                     <h3 className="text-base md:text-lg font-semibold text-white -700 mb-6">

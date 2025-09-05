@@ -75,15 +75,15 @@ export default function HeroSection() {
                     <div className='flex justify-center'>
                         <div className='border-2 md:text-xl text-sm px-4  mt-4 rounded-full bg-[#1D2129] p-2 border-[#13b5e8] font-medium'>
                             <h1 className='text-white text-center'>
-                                <span className='text-[#f43b38]'>📍Attention Delhi:</span>
-                                {' '}Next BIG AI Funnel Launch Event <br className='md:hidden'/>- Now In Delhi!
+                                <span className='text-[#f43b38]'>📍Attention Delhi & Gurgaon:</span>
+                                {' '}Next BIG AI Funnel Launch Event - Now In Gurgaon!
                             </h1>
                         </div>
                     </div>
                     {/* Headline + subhead */}
                     <div className="mx-auto md:mt-3 px-4 py-6 text-center">
                         <h1 className="mx-auto  text-[20px] md:text-[38px]   capitalize leading-[1.25]" style={{ fontFamily: 'Segoe UI, sans-serif !important', fontWeight: 600, color: '#F9FBFF' }}>
-                            Sit With Me In Delhi For 1 Day And I&apos;ll Teach You <span style={{ color: '#13B5E8' }}>How To<br className='hidden md:block' /> Launch Your 1 CR+ Coaching Business From High-<br />Converting Funnel</span> A-Z Using The Secret Army of <span style={{ color: '#13B5E8' }}><i>AI<br className='hidden md:block' /> Agents!</i></span>
+                            Sit With Me In Gurgaon For 1 Day And I&apos;ll Teach You <span style={{ color: '#13B5E8' }}>How To<br className='hidden md:block' /> Launch Your 1 CR+ Coaching Business From High-<br />Converting Funnel</span> A-Z Using The Secret Army of <span style={{ color: '#13B5E8' }}><i>AI<br className='hidden md:block' /> Agents!</i></span>
                         </h1>
 
                         <p className="mt-8 text-[18px]  md:text-[20px] font-medium  text-[#ffffff] -600">
